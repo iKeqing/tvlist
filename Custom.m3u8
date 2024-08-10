@@ -123,8 +123,6 @@ https://stream1.freetv.fun/8b62c93cf44d1c9d6547f273e9f5f821833112594093a6864d038
 https://stream1.freetv.fun/41ab4daa5c85588d13b678a1a854796c097548e29735785669318aa07f7ba74b.ctv
 #EXTINF:-1 tvg-name="National Geographic" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Knowledge",[SD]national geographic wild
 https://stream1.freetv.fun/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u
-#EXTINF:-1 tvg-name="BBC World News" tvg-country="United Kingdom" tvg-language="English" tvg-logo="https://epg.pw/media/img/logo/1_189.jpg" group-title="News",[BD]bbc world news
-https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv
 #EXTINF:-1 tvg-name="BERNAMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg" group-title="News",[SD]BERNAMA
 https://stream1.freetv.fun/e57a24d94eda94a6186c216144481b5a04188e1054477bfa1aca05aa93251198.ctv
 #EXTINF:-1 tvg-name="AL Jazeera" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]aljazeera
