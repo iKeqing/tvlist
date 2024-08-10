@@ -35,6 +35,20 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV央视文化精品频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png",CCTV央视文化精品频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV怀旧剧场频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV怀旧剧场频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV风云音乐频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png",CCTV风云音乐频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024163303.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV风云剧场频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png",CCTV风云剧场频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171703.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV高尔夫网球频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg",CCTV高尔夫网球频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV央视台球频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png",CCTV央视台球频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-id="CCTV女性时尚频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚频道
+http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -81,9 +95,9 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="纪实人文" group-title="其他",纪实人文
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="其他",纪实人文
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" group-title="其他",纪实科教
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="其他",纪实科教
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
 #EXTINF:-1 tvg-name="民視新聞" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="News",[BD]民视新闻 hd
 https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
