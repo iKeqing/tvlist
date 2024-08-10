@@ -81,15 +81,15 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="" group-title="其他",纪实人文
+#EXTINF:-1 tvg-name="纪实人文" group-title="其他",纪实人文
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="" group-title="其他",纪实科教
+#EXTINF:-1 tvg-name="纪实科教" group-title="其他",纪实科教
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
 #EXTINF:-1 tvg-name="民視新聞" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="News",[BD]民视新闻 hd
 https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 #EXTINF:-1 tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="卫视频道",BBC News (720p)
 https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-name="TVBS Asia"  tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="Generic",[HD]TVBS ASIA
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="Generic",[HD]TVBS ASIA
 https://stream1.freetv.fun/ef79412fd444aa7ed0352c78dc157a4fab106dd8f6a33a101a79e569908560dc.ctv
 #EXTINF:-1 tvg-name="8TV" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="Generic",[HD]8TV MALAYSIA
 https://stream1.freetv.fun/6e0dda5a683bfea6d4d01a5c21d25d2a6b50ea62267745e48a5b11460b2cfad9.ctv
@@ -97,8 +97,7 @@ https://stream1.freetv.fun/6e0dda5a683bfea6d4d01a5c21d25d2a6b50ea62267745e48a5b1
 https://stream1.freetv.fun/7fd463c8a5ca3335094376115c2b09bb9bdfb4aa6617c4c7ee5c50ba87788e31.ctv
 #EXTINF:-1 tvg-name="Astro Supersports 1" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213721172738_41.png" group-title="Sports",[BD]astro supersport 1
 https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-country="Malaysia"
-tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="Sports",[BD]astro supersport 2
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="Sports",[BD]astro supersport 2
 https://stream1.freetv.fun/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
 #EXTINF:-1 tvg-name="Astro Supersports 3" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214114116807_50.png" group-title="Sports",[BD]astro supersport 3
 https://stream1.freetv.fun/9cf3c54a966de9e04c381d66890bb9153fd28e1e9443bf48b5d9c9230d6c3c7e.ctv
@@ -128,3 +127,5 @@ https://stream1.freetv.fun/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a229636
 https://stream1.freetv.fun/9faaa6fed53f04139ddde77dbff117b5ef634432c766a3f9ffdd0a96c020534c.ctv
 #EXTINF:-1 tvg-name="BERNAMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg" group-title="News",[SD]BERNAMA
 https://stream1.freetv.fun/e57a24d94eda94a6186c216144481b5a04188e1054477bfa1aca05aa93251198.ctv
+#EXTINF:-1 tvg-name="AL Jazeera" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]aljazeera
+https://stream1.freetv.fun/5e23484e5ff2dc9a0797e7243c63e8b08535c9ef15644feea4ce0694da04ae8b.m3u8
