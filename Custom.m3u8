@@ -1,4 +1,6 @@
 #EXTM3U
+
+# 央视频道
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -49,6 +51,10 @@ http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
 http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV女性时尚频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚频道
 http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+#EXTINF:-1 tvg-name="测试CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",测试CCTV-5+ 体育赛事
+http://www.955595.xyz/hls/ysp.php?id=cctv5p_10m
+
+# 卫视频道
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
@@ -95,66 +101,12 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视频道",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="其他",纪实人文
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="其他",纪实科教
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
-#EXTINF:-1 tvg-name="民視新聞" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新闻台",[BD]民视新闻 hd
-https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
-#EXTINF:-1 tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻台",BBC News (720p)
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="Generic",[HD]TVBS ASIA
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="卫视频道",[HD]TVBS ASIA
 https://stream1.freetv.fun/ef79412fd444aa7ed0352c78dc157a4fab106dd8f6a33a101a79e569908560dc.ctv
-#EXTINF:-1 tvg-name="8TV" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="Generic",[HD]8TV MALAYSIA
-https://stream1.freetv.fun/6e0dda5a683bfea6d4d01a5c21d25d2a6b50ea62267745e48a5b11460b2cfad9.ctv
-#EXTINF:-1 tvg-name="Astro AEC" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="Generic",[HD]ASTRO AEC
-https://stream1.freetv.fun/7fd463c8a5ca3335094376115c2b09bb9bdfb4aa6617c4c7ee5c50ba87788e31.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213721172738_41.png" group-title="Sports",[BD]astro supersport 1
-https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="Sports",[BD]astro supersport 2
-https://stream1.freetv.fun/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214114116807_50.png" group-title="Sports",[BD]astro supersport 3
-https://stream1.freetv.fun/9cf3c54a966de9e04c381d66890bb9153fd28e1e9443bf48b5d9c9230d6c3c7e.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Sports",[HD]astro supersport 4
-https://stream1.freetv.fun/7624fcc33d2ee1945944024d2a629ea055893f73cc53b5fc3130d7d7eb88bad9.ctv
-#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="Sports",[BD]supersports variety 4
-https://stream1.freetv.fun/68d1cb7456c1241325637fb07059e8f579015edd45c2c1c23653cc2d176d0e99.ctv
-#EXTINF:-1 tvg-name="ASTRO AOD 311" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png" group-title="影视频道",[SD]ASTRO AOD 311
-https://stream1.freetv.fun/2e68221ca1e95ac6807b36beb8cb74e03cd9a3d9c2e8ef2280964296ac53c492.ctv
-#EXTINF:-1 tvg-name="Astro 歡喜臺" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171639594544_91.jpg" group-title="影视频道",[HD]Astro欢喜台
-https://stream1.freetv.fun/cffe3b53a901e2cb69d402473f9eff847e4fd87304a4e9d7b425466d7486ca5b.ctv
-#EXTINF:-1 tvg-name="TVB Plus" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="娱乐台",[BD]tvb plus
-https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
-#EXTINF:-1 tvg-name="C+頻道" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="娱乐台",[HD]香港c+
-https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
-#EXTINF:-1 tvg-name="無線新聞台" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新闻台",[HD]无线新闻
-https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8
-#EXTINF:-1 tvg-name="中天亞洲" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="Generic",[HD]中天亚洲台
-https://stream1.freetv.fun/e4e3c25712d21bc97332a5c687f3ff70eecb56bba375150467d16d7c1eae9e17.ctv
-#EXTINF:-1 tvg-name="BBC Lifestyle(TW)" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png" group-title="Generic",[HD]bbc lifestyle
-https://stream1.freetv.fun/8b62c93cf44d1c9d6547f273e9f5f821833112594093a6864d03879a5c18c819.ctv
-#EXTINF:-1 tvg-name="National Geographic" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Knowledge",[BD]national geographic
-https://stream1.freetv.fun/41ab4daa5c85588d13b678a1a854796c097548e29735785669318aa07f7ba74b.ctv
-#EXTINF:-1 tvg-name="National Geographic" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="Knowledge",[SD]national geographic wild
-https://stream1.freetv.fun/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u
-#EXTINF:-1 tvg-name="BERNAMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg" group-title="新闻台",[SD]BERNAMA
-https://stream1.freetv.fun/e57a24d94eda94a6186c216144481b5a04188e1054477bfa1aca05aa93251198.ctv
-#EXTINF:-1 tvg-name="AL Jazeera" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="新闻台",[BD]aljazeera
-https://stream1.freetv.fun/5e23484e5ff2dc9a0797e7243c63e8b08535c9ef15644feea4ce0694da04ae8b.m3u8
-#EXTINF:-1 tvg-name="东森美洲卫视" group-title="Generic",东森美洲卫视
+#EXTINF:-1 tvg-name="东森美洲卫视" group-title="卫视频道",东森美洲卫视
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 tvg-name="台视新闻聞" tvg-country="Taiwan" tvg-language="Chinese" group-title="新闻台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-name="NASA TV Media" group-title="Knowledge",NASA TV Media
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-name="NASA TV Public" group-title="Knowledge",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-name="NHK 華語" group-title="Generic",NHK 華語
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-name="新加坡国际" group-title="Generic",新加坡国际
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 tvg-name="测试CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",测试CCTV-5+ 体育赛事
-http://www.955595.xyz/hls/ysp.php?id=cctv5p_10m
+
+# 影视频道
 #EXTINF:-1 tvg-name="电视剧" group-title="影视频道",电视剧
 http://www.955595.xyz/hls/huya.php?id=21059609
 #EXTINF:-1 tvg-name="中华小当家" group-title="影视频道",中华小当家
@@ -195,3 +147,65 @@ http://www.955595.xyz/hls/huya.php?id=23740156
 http://www.955595.xyz/hls/huya.php?id=11352944
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" group-title="影视频道",铁齿铜牙纪晓岚
 http://www.955595.xyz/hls/huya.php?id=11342396
+
+# 新闻频道
+#EXTINF:-1 tvg-name="台视新闻聞" tvg-country="Taiwan" tvg-language="Chinese" group-title="新闻频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-name="民視新聞" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/03/22/large/20200322223350176476_57.png" group-title="新闻频道",[BD]民视新闻 hd
+https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新闻频道",[HD]无线新闻
+https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8
+#EXTINF:-1 tvg-name="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="新闻频道",BBC News (720p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+#EXTINF:-1 tvg-name="BERNAMA" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg" group-title="新闻频道",[SD]BERNAMA
+https://stream1.freetv.fun/e57a24d94eda94a6186c216144481b5a04188e1054477bfa1aca05aa93251198.ctv
+#EXTINF:-1 tvg-name="AL Jazeera" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="新闻频道",[BD]aljazeera
+https://stream1.freetv.fun/5e23484e5ff2dc9a0797e7243c63e8b08535c9ef15644feea4ce0694da04ae8b.m3u8
+
+# 国际频道
+#EXTINF:-1 tvg-name="中天亞洲" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711215559259916_97.png" group-title="国际频道",[HD]中天亚洲台
+https://stream1.freetv.fun/e4e3c25712d21bc97332a5c687f3ff70eecb56bba375150467d16d7c1eae9e17.ctv
+#EXTINF:-1 tvg-name="新加坡国际" group-title="国际频道",新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 tvg-name="8TV" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2020/05/12/large/20200512130107352553_81.png" group-title="国际频道",[HD]8TV MALAYSIA
+https://stream1.freetv.fun/6e0dda5a683bfea6d4d01a5c21d25d2a6b50ea62267745e48a5b11460b2cfad9.ctv
+#EXTINF:-1 tvg-name="Astro AEC" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2016/06/13/large/20160613221915401269_45.jpg" group-title="国际频道",[HD]ASTRO AEC
+https://stream1.freetv.fun/7fd463c8a5ca3335094376115c2b09bb9bdfb4aa6617c4c7ee5c50ba87788e31.ctv
+#EXTINF:-1 tvg-name="NHK 華語" group-title="国际频道",NHK 華語
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-name="BBC Lifestyle(TW)" tvg-country="Taiwan" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png" group-title="国际频道",[HD]bbc lifestyle
+https://stream1.freetv.fun/8b62c93cf44d1c9d6547f273e9f5f821833112594093a6864d03879a5c18c819.ctv
+
+# 知识频道
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jsrw.png" group-title="知识频道",纪实人文
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
+#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="知识频道",纪实科教
+http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226658/1.m3u8
+#EXTINF:-1 tvg-name="NASA TV Media" group-title="知识频道",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-name="NASA TV Public" group-title="知识频道",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="知识频道",[BD]national geographic
+https://stream1.freetv.fun/41ab4daa5c85588d13b678a1a854796c097548e29735785669318aa07f7ba74b.ctv
+#EXTINF:-1 tvg-name="National Geographic" tvg-country="Romania" tvg-language="Română" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163824809340_39.png" group-title="知识频道",[SD]national geographic wild
+https://stream1.freetv.fun/9f0be71076c1d9b89a6f1064de278b1217e60763ee9d89a2296367cba33833d5.m3u
+
+# 娱乐频道
+#EXTINF:-1 tvg-name="Astro欢喜台" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171639594544_91.jpg" group-title="娱乐频道",Astro欢喜台
+https://stream1.freetv.fun/cffe3b53a901e2cb69d402473f9eff847e4fd87304a4e9d7b425466d7486ca5b.ctv
+#EXTINF:-1 tvg-name="TVB Plus" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png" group-title="娱乐频道",TVB Plus
+https://stream1.freetv.fun/cf771efb6d9315d9de352eec32c8d4e1c6b2fad52898c1ce092977aefd0de807.ctv
+#EXTINF:-1 tvg-name="C+频道" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg" group-title="娱乐频道",C+频道
+https://stream1.freetv.fun/8809ef652c64001910cceaa72e6190b5bfe53d1f7478b98f2bcac0531f8c436d.m3u8
+
+# 体育频道
+#EXTINF:-1 tvg-name="Astro Supersports 1" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213721172738_41.png" group-title="体育频道",Astro Supersports 1
+https://stream1.freetv.fun/e991a603d8fde83347394ce5519cd6ef790a7627e49851af584739150c6b36c0.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 2" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601213941106492_41.png" group-title="体育频道",Astro Supersports 2
+https://stream1.freetv.fun/a6021743e0e0ea0da317a3ee3896777648a8ab3330e2afcab893808ee14ec054.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 3" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2023/06/01/large/20230601214114116807_50.png" group-title="体育频道",Astro Supersports 3
+https://stream1.freetv.fun/9cf3c54a966de9e04c381d66890bb9153fd28e1e9443bf48b5d9c9230d6c3c7e.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="体育频道",Astro Supersports 4
+https://stream1.freetv.fun/7624fcc33d2ee1945944024d2a629ea055893f73cc53b5fc3130d7d7eb88bad9.ctv
+#EXTINF:-1 tvg-name="Astro Supersports 4" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/10/18/large/20221018162917282619_54.jpg" group-title="体育频道",Astro Supersports 4
+https://stream1.freetv.fun/68d1cb7456c1241325637fb07059e8f579015edd45c2c1c23653cc2d176d0e99.ctv
