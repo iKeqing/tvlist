@@ -35,8 +35,6 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226663/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV央视文化精品频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png",CCTV央视文化精品频道
 http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172303.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV怀旧剧场频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg",CCTV怀旧剧场频道
@@ -51,6 +49,8 @@ http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024166203.m3u8
 http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-id="CCTV女性时尚频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png",CCTV女性时尚频道
 http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024172203.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-name="测试CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",测试CCTV-5+ 体育赛事
 http://www.955595.xyz/hls/ysp.php?id=cctv5p_10m
 
